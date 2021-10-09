@@ -4,6 +4,10 @@
 
 ![Google Clone](https://i.im.ge/2021/10/09/T42H0L.png)
 
+## INTRODUCTION
+
+This is A google clone search engine that works the same as googles' search engine. This project was built using Reactjs, Context API, Material UI Icons, and the Google API that allows you to only make a 100 pull requests.
+
 ### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
