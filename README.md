@@ -1,8 +1,8 @@
 # Google Clone
 
-[Live Site] (https://clone-156e9.web.app/)
+[Live Site](https://clone-156e9.web.app/)
 
-![Google Clone] (https://i.im.ge/2021/10/09/T42H0L.png)
+![Google Clone](https://i.im.ge/2021/10/09/T42H0L.png)
 
 ### Getting Started with Create React App
 
